@@ -1,7 +1,13 @@
 numpy==1.18.1
-opencv-python==4.5.1.48
-imutils==0.5.3
 tensorflow==2.3.0
 pillow==7.0.0
 streamlit==0.76.0
 streamlit-webrtc==0.20.1
+aiortc==1.2.0
+av==8.0.3
+opencv_python==4.5.2.52
+imutils==0.5.3
+pydub==0.25.1
+streamlit==0.82.0
+streamlit_webrtc==0.20.1
+typing_extensions==3.10.0.0
