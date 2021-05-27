@@ -4,4 +4,4 @@ imutils==0.5.3
 tensorflow==2.3.0
 pillow==7.0.0
 streamlit==0.76.0
-streamlit-websrt==0.20.1
+streamlit-webrtc==0.20.1
